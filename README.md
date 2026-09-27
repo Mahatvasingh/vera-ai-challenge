@@ -1,4 +1,4 @@
-# magicpin Vera AI Challenge — Team Vera
+# magicpin Vera AI Challenge — Team:VEXA AI
 
 This is our submission for the magicpin Vera AI challenge. The project is a FastAPI-based backend that generates context-aware, outbound WhatsApp messages for local merchants and handles multi-turn replies.
 
